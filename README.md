@@ -189,6 +189,39 @@ SLA-B severity is moderate. Grace period of four hours on 24/7 schedule.
 SLA-C This has a a grace period of eight hours. Monday - Friday 8AM - 5PM with U.S. Holidays
 <br>
 <br>
+<br>
+![pci 22](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/1caf7cb4-617f-44eb-8ac7-b4cd872148ae)
+<br>
+<br>
+Next we will create our help topics. Click on help topics and then add new help topic.
+<br>
+<br>
+<br>
+![pic 23](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/aabb7404-f5b7-4812-aa00-3c15f9900de0)
+<br>
+<br>
+On the Help Topics Tab we will create four different scenarios. Business Critical Outage being the first.
+<br>
+
+1.) Business Critical Outage
+<br>
+2.) Personal Computer Issues
+<br>
+3.) Equipment Request
+<br>
+4.) Password Reset
+<br>
+<br>
+<br>
+![pic 24](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/ffb3adc7-7439-40b9-ab65-6642e158404c)
+<br>
+<br>
+We have successfully added and saved our four different help topics.
+<br>
+<br>
+<br>
+
+Congratulations! You have configured osTicket succesfully!
 
 
 
