@@ -120,4 +120,41 @@ User settings were successfully updated.
 <br>
 <br>
 
+![13](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/81e59da9-e8bb-4fdb-ad39-8e35de196a8f)
+<br>
+<br>
+We are going to add a new agent now. Click on the add new agent Tab.
+<br>
+<br>
+<br>
+
+![14](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/2ca60510-fe49-46b6-990d-42fb1a369924)
+<br>
+<br>
+We are creating a new admin account. Fill out the name and email address. Then we will go into and set the password.
+<br>
+<br>
+<br>
+
+![15](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/0e0dfc3a-2546-4afa-9cd2-0536c8dae2ef)
+<br>
+<br>
+In this step we will set the password for the agent.
+<br>
+<br>
+<br>
+
+![16](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/11ee3ecd-4c10-4a7d-9b08-7f0dae91374c)
+<br>
+<br>
+Click on the Access Tab. I will assign the Agent the departments they will have control over.
+<br>
+<br>
+<br>
+![17](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/1d296aa5-c4db-4c58-b3f4-4c1d8e4c29e6)
+<br>
+<br>
+Lastly, I will assign this agent to a team and click create.
+
+
 
