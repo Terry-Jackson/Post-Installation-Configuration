@@ -57,3 +57,20 @@ On this step we will add (Supreme Admin) as a role. Then from there we will clic
 You will see three more Tabs labeled Tickets, Task, and Knowledgebase. We will set the abilities for this role by checking the boxes. For this role and this project we are checking all the boxes within the Tickes, and Task tab.
 </p>
 <br />
+
+![5](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/3d9e21a4-8326-4762-88ad-5ad12cd75f4c)
+
+<br>
+The Supreme Admin Role was successfully added.
+
+
+<br>
+<br>
+<br>
+
+![6](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/5dc690ec-527b-4343-a863-184317d740ac)
+<br>
+
+Click on the Departments Tab. From there we will click onto add new Department.
+
+
