@@ -32,27 +32,28 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br>
 
 <h2>Configuration Steps</h2>
+<br>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  ![Click on add new Roles 2](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/aeb4e700-f803-4e99-83ab-ce9d23b98934)
+
+We will start by adding a new role. Click on Agents tab first and next add a new role.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+  ![3](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/3ff39d4f-66ec-4162-a838-4a531c09de97)
+
+On this step we will add (Supreme Admin) as a role. Then from there we will click onto permissions.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![4](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/405113a5-8d35-40bf-9eeb-5bc2d36a2e03)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You will see three more Tabs labeled Tickets, Task, and Knowledgebase. We will set the abilities for this role by checking the boxes. For this role and this project we are checking all the boxes within the Tickes, and Task tab.
 </p>
 <br />
