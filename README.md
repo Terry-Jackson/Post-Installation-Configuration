@@ -75,7 +75,49 @@ Click on the Departments Tab. From there we will click onto add new Department.
 
 <br>
 
+
+<br>
+
 ![7](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/44725b2e-6c77-4595-a71c-27f7a6c234bc)
 
 <br>
 The System Administrators department was successfully added.
+
+<br>
+<br>
+<br>
+
+![8](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/1850fdec-9bfe-4e08-ae97-381fb4ed56ab)
+<br>
+<br>
+Next I am going to add a new Team by clicking onto Teams Tab. Then Click onto add new Team. 
+<br>
+<br>
+
+![10](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/18949139-07d3-4d18-9ea7-6921e6ddacd9)
+<br>
+<br>
+We have created a Level II support for this team.
+<br>
+<br>
+<br>
+
+![11](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/61ca4bde-6df6-4039-9f66-4553eeb227bf)
+<br>
+<br>
+Click on settings and from there proceed to Users. Under Authentication Settings we will check on Require Registration and 
+login to create tickets. Save the Changes.
+<br>
+<br>
+<br>
+
+![12](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/2e84e5a1-6c9c-404c-8f76-2f6d760e5777)
+<br>
+<br>
+
+User settings were successfully updated.
+<br>
+<br>
+<br>
+
+
