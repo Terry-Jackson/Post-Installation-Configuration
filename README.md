@@ -73,4 +73,9 @@ The Supreme Admin Role was successfully added.
 
 Click on the Departments Tab. From there we will click onto add new Department.
 
+<br>
 
+![7](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/44725b2e-6c77-4595-a71c-27f7a6c234bc)
+
+<br>
+The System Administrators department was successfully added.
