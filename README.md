@@ -155,6 +155,43 @@ Click on the Access Tab. I will assign the Agent the departments they will have 
 <br>
 <br>
 Lastly, I will assign this agent to a team and click create.
+<br>
+<br>
+<br>
+![pic18](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/3dd6b36c-bd13-4d7d-a583-487f7b0f0f17)
+<br>
+<br>
+Now we are going to add a new User (customers).
+<br>
+<br>
+<br>
+![pic 19](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/e1e4e0f0-5918-4e6f-b074-3808024056a7)
+<br>
+<br>
+On this tab we are going to input the User information and add them to the system.
+<br>
+<br>
+<br>
+![Pic20](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/6571c900-59c5-4150-aa3a-8d90a14f065d)
+<br>
+<br>
+Moving on to set the severity levels for (SLA), Click on the manage tab. From there we will click on SLA.
+<br>
+<br>
+<br>
+![pic 21](https://github.com/Terry-Jackson/Post-Installation-Configuration/assets/155121596/3973f4f7-d55d-4165-905e-b5ad4910326d)
+<br>
+<br>
+SLA-A severity is critial. Meaning system is down and has a grace period of one hour on 24/7 schedule.
+<br>
+SLA-B severity is moderate. Grace period of four hours on 24/7 schedule.
+<br>
+SLA-C This has a a grace period of eight hours. Monday - Friday 8AM - 5PM with U.S. Holidays
+<br>
+<br>
+
+
+
 
 
 
